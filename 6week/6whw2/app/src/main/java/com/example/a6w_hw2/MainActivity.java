@@ -1,5 +1,12 @@
 package com.example.a6w_hw2;
 
+/* **********************************************
+ * 프로젝트명 :  9-2 포토샵
+ * 작성자 : 2019038050 윤승재
+ * 작성일 : 2022.04.16
+ * 프로그램 설명 : 미니 포토샵 앱
+ ************************************************/
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.graphics.*;

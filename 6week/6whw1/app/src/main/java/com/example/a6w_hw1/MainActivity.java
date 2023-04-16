@@ -1,5 +1,12 @@
 package com.example.a6w_hw1;
 
+/* **********************************************
+ * 프로젝트명 :  8-1 포토샵
+ * 작성자 : 2019038050 윤승재
+ * 작성일 : 2022.04.16
+ * 프로그램 설명 : 간단 일기장 앱
+ ************************************************/
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
